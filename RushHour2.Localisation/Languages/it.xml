@@ -2,71 +2,71 @@
 <Localisation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <IsoLanguageCode>it</IsoLanguageCode>
   <ReadableName>Italiano (IT)</ReadableName>
-  <CanTranslateIfUnavailable>true</CanTranslateIfUnavailable>
-  <Settings_SaveToDisk>Save to disk</Settings_SaveToDisk>
-  <Settings_SaveToDisk_Tooltip>Settings are applied automatically ingame. Clicking this button saves these settings to disk and will be loaded again on a restart.</Settings_SaveToDisk_Tooltip>
+  <CanTranslateIfUnavailable>Vero</CanTranslateIfUnavailable>
+  <Settings_SaveToDisk>Salva su Disco</Settings_SaveToDisk>
+  <Settings_SaveToDisk_Tooltip>I settaggi sono applicati automaticamente durante la partita. Cliccando su questo pulsante, le impostazioni verranno salvate su disco e saranno nuovamente caricate al riavvio.</Settings_SaveToDisk_Tooltip>
   <Settings_Group_Core>Core</Settings_Group_Core>
-  <Settings_Core_Language>Language</Settings_Core_Language>
-  <Settings_Core_Enabled>Enabled</Settings_Core_Enabled>
-  <Settings_Core_ModifyCitizenBehaviour>Modify citizen behaviours</Settings_Core_ModifyCitizenBehaviour>
-  <Settings_Core_ModifyTouristBehaviour>Modify tourist behaviours</Settings_Core_ModifyTouristBehaviour>
-  <Settings_Group_Time>Time</Settings_Group_Time>
-  <Settings_SimulationSpeed>Simulation speed modifier</Settings_SimulationSpeed>
-  <Settings_Time_ModifyDateTimeBar>Modify the date/time bar to show the time</Settings_Time_ModifyDateTimeBar>
-  <Settings_Time_24hrTime>24 hour clock</Settings_Time_24hrTime>
-  <Settings_Group_School>School</Settings_Group_School>
-  <Settings_School_StartTime>Start time</Settings_School_StartTime>
-  <Settings_School_Duration>Duration</Settings_School_Duration>
+  <Settings_Core_Language>Lingua</Settings_Core_Language>
+  <Settings_Core_Enabled>Abilitato</Settings_Core_Enabled>
+  <Settings_Core_ModifyCitizenBehaviour>Modifica comportamento Cittadini</Settings_Core_ModifyCitizenBehaviour>
+  <Settings_Core_ModifyTouristBehaviour>Modifica comportamento Turisti</Settings_Core_ModifyTouristBehaviour>
+  <Settings_Group_Time>Tempo</Settings_Group_Time>
+  <Settings_SimulationSpeed>Modificatore velocità Simulazione</Settings_SimulationSpeed>
+  <Settings_Time_ModifyDateTimeBar>Modifica la barra data/ora per mostrare l'ora</Settings_Time_ModifyDateTimeBar>
+  <Settings_Time_24hrTime>Orologio 24H</Settings_Time_24hrTime>
+  <Settings_Group_School>Scuola</Settings_Group_School>
+  <Settings_School_StartTime>Orario d'Inizio</Settings_School_StartTime>
+  <Settings_School_Duration>Durata</Settings_School_Duration>
   <Settings_School_DurationFormat>HH'h' mm'm'</Settings_School_DurationFormat>
-  <Settings_Group_University>University</Settings_Group_University>
-  <Settings_University_StartTime>Start time</Settings_University_StartTime>
-  <Settings_University_Duration>Duration</Settings_University_Duration>
+  <Settings_Group_University>Università</Settings_Group_University>
+  <Settings_University_StartTime>Orario d'Inizio</Settings_University_StartTime>
+  <Settings_University_Duration>Durata</Settings_University_Duration>
   <Settings_University_DurationFormat>HH'h' mm'm'</Settings_University_DurationFormat>
-  <Settings_Group_Commercial>Commercial</Settings_Group_Commercial>
-  <Settings_Commercial_Weekday_StartTime>Weekday start time</Settings_Commercial_Weekday_StartTime>
-  <Settings_Commercial_Weekday_Duration>Weekday duration</Settings_Commercial_Weekday_Duration>
-  <Settings_Commercial_Weekend_StartTime>Weekend start time</Settings_Commercial_Weekend_StartTime>
-  <Settings_Commercial_Weekend_Duration>Weekend duration</Settings_Commercial_Weekend_Duration>
+  <Settings_Group_Commercial>Commerciale</Settings_Group_Commercial>
+  <Settings_Commercial_Weekday_StartTime>Orario d'Inizio settimanale</Settings_Commercial_Weekday_StartTime>
+  <Settings_Commercial_Weekday_Duration>Durata settimanale</Settings_Commercial_Weekday_Duration>
+  <Settings_Commercial_Weekend_StartTime>Orario d'Inizio Weekend</Settings_Commercial_Weekend_StartTime>
+  <Settings_Commercial_Weekend_Duration>Durata Weekend</Settings_Commercial_Weekend_Duration>
   <Settings_Commercial_DurationFormat>HH'h' mm'm'</Settings_Commercial_DurationFormat>
-  <Settings_Group_Industrial>Industrial</Settings_Group_Industrial>
-  <Settings_Industrial_Weekday_StartTime>Weekday start time</Settings_Industrial_Weekday_StartTime>
-  <Settings_Industrial_Weekday_Duration>Weekday duration</Settings_Industrial_Weekday_Duration>
-  <Settings_Industrial_Weekend_StartTime>Weekend start time</Settings_Industrial_Weekend_StartTime>
-  <Settings_Industrial_Weekend_Duration>Weekend duration</Settings_Industrial_Weekend_Duration>
+  <Settings_Group_Industrial>Industrie</Settings_Group_Industrial>
+  <Settings_Industrial_Weekday_StartTime>Orario d'Inizio settimanale</Settings_Industrial_Weekday_StartTime>
+  <Settings_Industrial_Weekday_Duration>Durata settimanale</Settings_Industrial_Weekday_Duration>
+  <Settings_Industrial_Weekend_StartTime>Orario d'Inizio WeekEnd</Settings_Industrial_Weekend_StartTime>
+  <Settings_Industrial_Weekend_Duration>Durata WeekEnd</Settings_Industrial_Weekend_Duration>
   <Settings_Industrial_DurationFormat>HH'h' mm'm'</Settings_Industrial_DurationFormat>
-  <Settings_Group_Offices>Offices</Settings_Group_Offices>
-  <Settings_Offices_Weekday_StartTime>Weekday start time</Settings_Offices_Weekday_StartTime>
-  <Settings_Offices_Weekday_Duration>Weekday duration</Settings_Offices_Weekday_Duration>
+  <Settings_Group_Offices>Uffici</Settings_Group_Offices>
+  <Settings_Offices_Weekday_StartTime>Orario d'Inizio settimanale</Settings_Offices_Weekday_StartTime>
+  <Settings_Offices_Weekday_Duration>Durata settimanale</Settings_Offices_Weekday_Duration>
   <Settings_Offices_DurationFormat>HH'h' mm'm'</Settings_Offices_DurationFormat>
-  <Settings_Group_Work>Work</Settings_Group_Work>
-  <Settings_Work_AllowLeisure>Allow some workers to go to leisure areas after work on Fridays</Settings_Work_AllowLeisure>
-  <Settings_Group_Citizens>Citizens</Settings_Group_Citizens>
-  <Settings_Citizens_ReactToWeather>React to weather</Settings_Citizens_ReactToWeather>
-  <Settings_Group_Lighting>Lighting</Settings_Group_Lighting>
-  <Settings_Lighting_OverrideLights>Allow control of building lighting</Settings_Lighting_OverrideLights>
-  <Settings_Lighting_LightsEducation>Allow control of educational building lighting</Settings_Lighting_LightsEducation>
-  <Settings_Lighting_LightsCommercial>Allow control of commercial building lighting</Settings_Lighting_LightsCommercial>
-  <Settings_Lighting_LightsOffices>Allow control of office building lighting</Settings_Lighting_LightsOffices>
-  <Settings_Lighting_LightsResidential>Allow control of residential building lighting</Settings_Lighting_LightsResidential>
-  <Settings_Lighting_LightsIndustrial>Allow control of industrial building lighting</Settings_Lighting_LightsIndustrial>
-  <Settings_Group_DangerZone>Danger zone</Settings_Group_DangerZone>
-  <Settings_DangerZone_IgnoreVehiclePercentages>Ignore vehicle percentages when spawning citizens</Settings_DangerZone_IgnoreVehiclePercentages>
-  <Settings_DangerZone_IgnoreVehiclePercentages_Tooltip>Enabling this will allow more citizens to spawn, however it may cause vehicles to randomly disappear if you are near the maximum allowed vehicles in your city.</Settings_DangerZone_IgnoreVehiclePercentages_Tooltip>
-  <Settings_DangerZone_EnableMessageBoxes>Enable message boxes</Settings_DangerZone_EnableMessageBoxes>
-  <Settings_DangerZone_EnableMessageBoxes_Tooltip>Disabling this will prevent all {0} message boxes from appearing. This could lead to you missing out on important information.</Settings_DangerZone_EnableMessageBoxes_Tooltip>
+  <Settings_Group_Work>Lavoro</Settings_Group_Work>
+  <Settings_Work_AllowLeisure>Permette ad alcuni lavoratori di andare nelle aree di svago dopo il lavoro di venerdì</Settings_Work_AllowLeisure>
+  <Settings_Group_Citizens>Cittadini</Settings_Group_Citizens>
+  <Settings_Citizens_ReactToWeather>Reazione alle intemperie</Settings_Citizens_ReactToWeather>
+  <Settings_Group_Lighting>Illuminazione</Settings_Group_Lighting>
+  <Settings_Lighting_OverrideLights>Permetti controllo illuminazione degli edifici</Settings_Lighting_OverrideLights>
+  <Settings_Lighting_LightsEducation>Permetti controllo illuminazione delle scuole</Settings_Lighting_LightsEducation>
+  <Settings_Lighting_LightsCommercial>Permetti controllo illuminazione degli edifici commerciali</Settings_Lighting_LightsCommercial>
+  <Settings_Lighting_LightsOffices>Permetti controllo illuminazione degli uffici</Settings_Lighting_LightsOffices>
+  <Settings_Lighting_LightsResidential>Permetti controllo illuminazione delle abitazioni</Settings_Lighting_LightsResidential>
+  <Settings_Lighting_LightsIndustrial>Permetti controllo illuminazione delle fabbriche</Settings_Lighting_LightsIndustrial>
+  <Settings_Group_DangerZone>Zona Pericolosa</Settings_Group_DangerZone>
+  <Settings_DangerZone_IgnoreVehiclePercentages>Ignora la percentuale di veicoli quando i cittadini vengono generati</Settings_DangerZone_IgnoreVehiclePercentages>
+  <Settings_DangerZone_IgnoreVehiclePercentages_Tooltip>Abilitandola, permetterà lo spawn di un maggior numero di cittadini, ma potrebbe causare la scomparsa casuale di veicoli se sei vicino la limite massimo di mezzi consentiti nella tua città.</Settings_DangerZone_IgnoreVehiclePercentages_Tooltip>
+  <Settings_DangerZone_EnableMessageBoxes>Abilita Box Messaggi</Settings_DangerZone_EnableMessageBoxes>
+  <Settings_DangerZone_EnableMessageBoxes_Tooltip>La disattivazione impedirà la visualizzazione di tutte le {0} caselle di messaggio. Questo potrebbe portare a perdere importanti informazioni.</Settings_DangerZone_EnableMessageBoxes_Tooltip>
   <Settings_Group_Logging>Logging</Settings_Group_Logging>
-  <Settings_Logging_LogCitizenStatus>Log citizen activity status to file</Settings_Logging_LogCitizenStatus>
-  <Settings_Logging_LogToFile>Log to file</Settings_Logging_LogToFile>
-  <Settings_Logging_LogToDebugPanel>Log to debug panel</Settings_Logging_LogToDebugPanel>
-  <Settings_Logging_LogToConsole>Log to console</Settings_Logging_LogToConsole>
-  <Settings_Logging_LogToFileInterval>Log to file interval</Settings_Logging_LogToFileInterval>
+  <Settings_Logging_LogCitizenStatus>Registra stato delle attività dei cittadini su file</Settings_Logging_LogCitizenStatus>
+  <Settings_Logging_LogToFile>Registra su file</Settings_Logging_LogToFile>
+  <Settings_Logging_LogToDebugPanel>Registra su Pannello Debug</Settings_Logging_LogToDebugPanel>
+  <Settings_Logging_LogToConsole>Registra su console</Settings_Logging_LogToConsole>
+  <Settings_Logging_LogToFileInterval>Intervallo Registrazione su file</Settings_Logging_LogToFileInterval>
   <Settings_Logging_LogToFileIntervalFormat>m'm' ss's'</Settings_Logging_LogToFileIntervalFormat>
-  <ExperimentalBuild_Title>{0} - experimental build</ExperimentalBuild_Title>
-  <ExperimentalBuild_Description>You currently have an experimental build of {0} running.
+  <ExperimentalBuild_Title>{0} - Build Sperimentale</ExperimentalBuild_Title>
+  <ExperimentalBuild_Description>Attualmente hai una build sperimentale di {0} in funzione.
 
-This build may have bugs and issues, as well as incomplete features as it is intended for testing only. Please subscribe to the non-experimental version of the mod if you don't intend on testing {0}.</ExperimentalBuild_Description>
-  <Incompatibility_Title>{0} - Incompatibility detected</Incompatibility_Title>
-  <Incompatibility_Description>There appears to be an issue overriding part of the game, likely due to another conflicting mod.
+Questa build può avere bug e problemi, oltre a funzionalità incomplete, poiché è destinata solo ai test. Si prega di sottoscrivere la versione non sperimentale della mod se non si intende testare {0}.</ExperimentalBuild_Description>
+  <Incompatibility_Title>{0} - Incompatibilità  rilevata</Incompatibility_Title>
+  <Incompatibility_Description>Sembra esserci un problema con l'override di una parte del gioco, probabilmente a causa di una mod in conflitto.
 
-Some features have been disabled, but everything else will still work.</Incompatibility_Description>
+Alcune funzionalità sono state disabilitate, ma tutto il resto continuerà a funzionare.</Incompatibility_Description>
 </Localisation>
